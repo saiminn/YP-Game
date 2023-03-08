@@ -10,7 +10,7 @@ let questions = [
   'Describe three types of Hotels?',
   'Do you love learning in YP? Why?',
   'What is your suggestions or thankful words to teachers of YP?',
-  'How do you feel to attending YP?',
+  'How do you feel attending in YP?',
   'How many subjects in YP and what are they for?',
   'What is Excellent Customer service?',
   'What are Service Sequences? (You may tell as you remember)',
